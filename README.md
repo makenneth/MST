@@ -1,1 +1,3 @@
 # MST
+- Kruskal
+- Prim
